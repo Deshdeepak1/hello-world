@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+Hi everyone!
+Deshdeepak here , I like Computer Science, Politics and Theology.
